@@ -185,4 +185,4 @@ class RAGASEvaluator:
             plt.close(fig)
             logger.info("Saved evaluation plots to %s", plot_path)
 
-# _r 20260520105406-e21688e6
+# _r 20260523144003-6ff728af
