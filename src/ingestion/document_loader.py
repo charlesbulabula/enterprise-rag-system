@@ -171,4 +171,4 @@ class DocumentLoader:
             raise ValueError(f"Unknown source_type: {source_type}")
         return self.chunk_documents(docs, chunk_size=chunk_size, overlap=overlap)
 
-# _r 20260520145204-147c5ffc
+# _r 20260523095006-9ee432da
