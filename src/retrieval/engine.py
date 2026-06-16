@@ -164,4 +164,4 @@ class RetrievalEngine:
     def update_bm25_corpus(self, corpus: List[Dict[str, Any]]) -> None:
         self._build_bm25_index(corpus)
 
-# _r 20260525093212-092c70ba
+# _r 20260613142206-e1062785
