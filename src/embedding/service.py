@@ -160,4 +160,4 @@ class EmbeddingService:
         )
         return results
 
-# _r 20260616142606-c47f9cfb
+# _r 20260619101611-f7e7e3f8
