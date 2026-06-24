@@ -206,4 +206,4 @@ def configure_pipeline(retrieval_engine, llm_client):
     _retrieval_engine = retrieval_engine
     _llm_client = llm_client
 
-# _r 20260611144607-8ecbd849
+# _r 20260624151605-49bd89c9
